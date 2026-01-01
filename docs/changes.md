@@ -20,7 +20,8 @@
 - [Core] Migrate much more code into Rust
 - [MagiskSU] Fallback to older implementation when the kernel doesn't support zero userspace copy APIs
 
-### v30.2 (2025.8.6)
+#IMEI 
+v30.2 (2025.8.6)
 
 - [Core] Fix an edge case breaking modules when overlayfs is involved
 - [Core] Fix module `.replace` functionality in certain situations
